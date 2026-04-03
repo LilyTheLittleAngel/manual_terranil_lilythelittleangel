@@ -6,5 +6,13 @@
             "Region Coordinates"
         ],
         "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Desolate Island Unlock",
+        "category": [
+            "Region Coordinates"
+        ],
+        "progression": true
     }
 ]

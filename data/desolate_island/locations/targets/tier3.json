@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Desolate Island Tier 3 First Recycling",
+        "region": "Desolate Island - Tier 3",
+        "category": [
+            "Desolate Island tier 3 Goals"
+        ],
+        "requires": "|Airship (Desolate Island)| AND |Recycler Station (Desolate Island)| AND |Recycling Beacon (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Tier 3 Recycling <5 Buildings Left",
+        "region": "Desolate Island - Tier 3",
+        "category": [
+            "Desolate Island tier 3 Goals"
+        ],
+        "requires": "|Airship (Desolate Island)| AND |Recycler Station (Desolate Island)| AND |Recycling Beacon (Desolate Island)| AND |Rock Hopper (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Tier 3 One Animal Photo",
+        "region": "Desolate Island - Tier 3",
+        "category": [
+            "Desolate Island tier 3 Goals"
+        ],
+        "requires": "|Animal Observatory (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Tier 3 All Animal Photos",
+        "region": "Desolate Island - Tier 3",
+        "category": [
+            "Desolate Island tier 3 Goals"
+        ],
+        "requires": "|Animal Observatory (Desolate Island)| AND |Airship (Desolate Island)| AND |Recycling Silo (Desolate Island)| AND |Recycling Drone (Desolate Island)| AND |Loading Dock (Desolate Island)| AND |Pound Lock (Desolate Island)|"
+    }
+]

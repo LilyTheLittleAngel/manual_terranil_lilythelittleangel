@@ -29,6 +29,6 @@
         "category": [
             "River Valley tier 3 Goals"
         ],
-        "requires": "|Animal Observatory (River Valley)| AND (|Recycling Silo (River Valley)| OR (|Airship (River Valley)| AND |Recycling Drone (River Valley)| AND |Loading Dock (River Valley)| AND |Pound Lock (River Valley)|)"
+        "requires": "|Animal Observatory (River Valley)| AND |Airship (River Valley)| AND |Recycling Silo (River Valley)| AND |Recycling Drone (River Valley)| AND |Loading Dock (River Valley)| AND |Pound Lock (River Valley)|"
     }
 ]

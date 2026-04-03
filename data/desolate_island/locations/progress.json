@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Desolate Island Tier 1 Done",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Tier Clears"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Toxin Scrubber (Desolate Island)| AND |Irrigator (Desolate Island)| AND |Water Pump (Desolate Island)| AND |Mineralizer (Desolate Island)| AND |Sandbank (Desolate Island)|",
+        "place_item": [
+            "Tier 1 Done (Desolate Island)"
+        ]
+    },
+    {
+        "name": "Desolate Island Tier 2 Done",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Tier Clears"
+        ],
+        "requires": "|Hydroponium (Desolate Island)| AND |Littarium (Desolate Island)| AND |Salinator (Desolate Island)| AND |Shadecloth Pillar (Desolate Island)| AND |Monorail Node (Desolate Island)| AND |Coral Lab (Desolate Island)|",
+        "place_item": [
+            "Tier 2 Done (Desolate Island)"
+        ]
+    },
+    {
+        "name": "Desolate Island Liftoff",
+        "region": "Desolate Island - Tier 3",
+        "category": [
+            "Tier Clears"
+        ],
+        "requires": "|Airship (Desolate Island)| AND |Recycling Silo (Desolate Island)| AND |Recycler Station (Desolate Island)| AND |Recycling Beacon (Desolate Island)| AND |Rock Hopper (Desolate Island)| AND |Animal Observatory (Desolate Island)|",
+        "place_item": [
+            "Restored Ecosystems"
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Desolate Island Green Energy",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island First Clean Soil",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Toxin Scrubber (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island First Clean Ocean",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Toxin Scrubber (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island First Greenery",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND (|Water Pump (Desolate Island)| OR (|Toxin Scrubber (Desolate Island)| AND |Irrigator (Desolate Island)|)"
+    },
+    {
+        "name": "Desolate Island First River",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Water Pump (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Greenery 25% done",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Toxin Scrubber (Desolate Island)| AND |Irrigator (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Greenery 50% done",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Toxin Scrubber (Desolate Island)| AND |Irrigator (Desolate Island)| AND |Mineralizer (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Greenery 75% done",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Toxin Scrubber (Desolate Island)| AND |Irrigator (Desolate Island)| AND |Water Pump (Desolate Island)| AND |Mineralizer (Desolate Island)| AND |Sandbank (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Greenery 100% done",
+        "region": "Desolate Island - Tier 1",
+        "category": [
+            "Desolate Island tier 1 Goal"
+        ],
+        "requires": "|Turbine (Desolate Island)| AND |Toxin Scrubber (Desolate Island)| AND |Irrigator (Desolate Island)| AND |Water Pump (Desolate Island)| AND |Mineralizer (Desolate Island)| AND |Sandbank (Desolate Island)|"
+    }
+]

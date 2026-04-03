@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Ivy Overgrowth",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Cloud Seeder (Desolate Island)| AND |Combustor (Desolate Island)| AND |Tier 2 Done (Desolate Island)| AND |Recycling Silo (Desolate Island)|"
+    },
+    {
+        "name": "Jellyfish Return",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Cloud Seeder (Desolate Island)| AND |Combustor (Desolate Island)|"
+    },
+    {
+        "name": "Crabs Populate Beaches",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Combustor (Desolate Island)|"
+    },
+    {
+        "name": "Coconut Palms",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Combustor (Desolate Island)|"
+    },
+    {
+        "name": "Migratory Birds Return",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Combustor (Desolate Island)|"
+    },
+    {
+        "name": "Ferns on Riverbanks",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Cloud Seeder (Desolate Island)|"
+    },
+    {
+        "name": "Vines Grow",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Cloud Seeder (Desolate Island)| AND |Combustor (Desolate Island)| AND |Tier 2 Done (Desolate Island)| AND |Recycling Silo (Desolate Island)|"
+    },
+    {
+        "name": "Waterlillies Blossom",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Cloud Seeder (Desolate Island)| AND |Tier 2 Done (Desolate Island)| AND |Recycling Silo (Desolate Island)|"
+    },
+    {
+        "name": "Dragonflies",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Combustor (Desolate Island)| AND |Tier 2 Done (Desolate Island)| AND |Recycling Silo (Desolate Island)|"
+    },
+    {
+        "name": "Moss on Rock Faces",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Cloud Seeder (Desolate Island)|"
+    },
+    {
+        "name": "Thunderstorms begin",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Cloud Seeder (Desolate Island)|",
+        "place_item": [
+            "Thunderstorms (Desolate Island)"
+        ]
+    }
+]

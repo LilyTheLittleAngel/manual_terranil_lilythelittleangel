@@ -1,5 +1,13 @@
 [
     {
+        "name": "First Restoration",
+        "region": "World Map",
+        "category": [
+            "Goal"
+        ],
+        "requires": "|Restored Ecosystems:1|"
+    },
+    {
         "name": "Restored Planet",
         "region": "World Map",
         "victory": true,

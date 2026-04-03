@@ -1,0 +1,50 @@
+[
+    {
+        "count": 1,
+        "name": "Hydroponium (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Littarium (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Salinator (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Shadecloth Pillar (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Monorail Node (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Coral Lab (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 2"
+        ],
+        "progression": true
+    }
+]

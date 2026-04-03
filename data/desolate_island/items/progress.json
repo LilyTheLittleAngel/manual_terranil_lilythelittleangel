@@ -1,0 +1,34 @@
+[
+    {
+        "count": 1,
+        "name": "Tier 1 Done (Desolate Island)",
+        "category": [
+            "Desolate Island Tiers Done"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Tier 2 Done (Desolate Island)",
+        "category": [
+            "Desolate Island Tiers Done"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Tier 3 Done (Desolate Island)",
+        "category": [
+            "Desolate Island Tiers Done"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Thunderstorms (Desolate Island)",
+        "category": [
+            "Desolate Island Climate Goals"
+        ],
+        "useful": true
+    }
+]

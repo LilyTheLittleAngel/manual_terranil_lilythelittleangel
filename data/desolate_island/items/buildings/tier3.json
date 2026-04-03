@@ -1,0 +1,58 @@
+[
+    {
+        "count": 1,
+        "name": "Airship (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Recycling Silo (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 3"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Recycler Station (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Recycling Beacon (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Rock Hopper (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Sonic Pulse (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 3"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Animal Observatory (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 3"
+        ],
+        "progression": true
+    }
+]

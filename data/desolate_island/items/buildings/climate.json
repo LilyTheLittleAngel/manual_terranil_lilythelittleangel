@@ -1,0 +1,18 @@
+[
+    {
+        "count": 1,
+        "name": "Cloud Seeder (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Climate"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Combustor (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Climate"
+        ],
+        "progression": true
+    }
+]

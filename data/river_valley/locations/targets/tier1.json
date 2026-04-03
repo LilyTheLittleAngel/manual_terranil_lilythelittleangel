@@ -1,11 +1,19 @@
 [
     {
-        "name": "River Valley Green Energy",
+        "name": "River Valley First Green Energy",
         "region": "River Valley - Tier 1",
         "category": [
             "River Valley tier 1 Goal"
         ],
         "requires": "|Turbine (River Valley)|"
+    },
+    {
+        "name": "River Valley First Clean Soil",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)|"
     },
     {
         "name": "River Valley First Greenery",

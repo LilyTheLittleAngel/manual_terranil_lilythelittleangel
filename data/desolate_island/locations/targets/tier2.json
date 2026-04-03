@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Desolate Island Tier 2 First Wetlands",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Hydroponium (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Tier 2 First Mangroves",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Hydroponium (Desolate Island)| AND |Salinator (Desolate Island)| AND |Combustor|"
+    },
+    {
+        "name": "Desolate Island Tier 2 Mangroves Goal",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Hydroponium (Desolate Island)| AND |Salinator (Desolate Island)| AND |Combustor|"
+    },
+    {
+        "name": "Desolate Island Tier 2 First Beach",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Littarium (Desolate Island)| AND |Combustor|"
+    },
+    {
+        "name": "Desolate Island Tier 2 Beach Goal",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Littarium (Desolate Island)| AND |Combustor|"
+    },
+    {
+        "name": "Desolate Island Tier 2 First Tropical Forest",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Shadecloth Pillar (Desolate Island)| AND |Cloud Seeder (Desolate Island)|"
+    },
+    {
+        "name": "Desolate Island Tier 2 Tropical Forest Goal",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Shadecloth Pillar (Desolate Island)| AND |Cloud Seeder (Desolate Island)| AND |Combustor (Desolate Island)"
+    },
+    {
+        "name": "Desolate Island Tier 2 First Coral",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Coral Lab (Desolate Island)| AND |Monorail Node (Desolate Island)| AND |Combustor (Desolate Island)"
+    },
+    {
+        "name": "Desolate Island Tier 2 Coral Goal",
+        "region": "Desolate Island - Tier 2",
+        "category": [
+            "Desolate Island tier 2 Goals"
+        ],
+        "requires": "|Coral Lab (Desolate Island)| AND |Monorail Node (Desolate Island)| AND |Combustor (Desolate Island)"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "count": 1,
+        "name": "Turbine (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 1",
+            "Starter Buildings"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Toxin Scrubber (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 1",
+            "Starter Buildings"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Irrigator (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 1"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Water Pump (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 1"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Mineralizer (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 1"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Sandbank (Desolate Island)",
+        "category": [
+            "Desolate Island Buildings - Tier 1"
+        ],
+        "progression": true
+    }
+]
