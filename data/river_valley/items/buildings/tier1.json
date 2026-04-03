@@ -1,0 +1,52 @@
+[
+    {
+        "count": 1,
+        "name": "Turbine (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 1",
+            "Starter Buildings"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Toxin Scrubber (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 1",
+            "Starter Buildings"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Irrigator (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 1"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Water Pump (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 1"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Calcifier (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 1"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Excavator (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 1"
+        ],
+        "progression": true
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "River Valley Green Energy",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)|"
+    },
+    {
+        "name": "River Valley First Greenery",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)| AND (|Water Pump (River Valley)| OR (|Toxin Scrubber (River Valley)| AND |Irrigator (River Valley)|)"
+    },
+    {
+        "name": "River Valley First River",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Water Pump (River Valley)|"
+    },
+    {
+        "name": "River Valley Greenery 25% done",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)| AND |Irrigator (River Valley)|"
+    },
+    {
+        "name": "River Valley Greenery 50% done",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)| AND |Irrigator (River Valley)|"
+    },
+    {
+        "name": "River Valley Greenery 75% done",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)| AND |Irrigator (River Valley)| AND |Calcifier (River Valley)| AND |Water Pump (River Valley)|"
+    },
+    {
+        "name": "River Valley Greenery 100% done",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Goal"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)| AND |Irrigator (River Valley)| AND |Calcifier (River Valley)| AND |Water Pump (River Valley)| AND |Excavator (River Valley)|"
+    }
+]

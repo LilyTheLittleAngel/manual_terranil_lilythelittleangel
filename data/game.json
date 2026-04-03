@@ -2,6 +2,19 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "TerraNil",
   "creator": "LilytheLittleAngel",
-  "filler_item_name": "Bonus Resources ×100",
-  "starting_items": []
+  "filler_item_name": "Bonus Starting Resources x10",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Region Coordinates"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Starter Buildings"
+      ]
+    }
+  ],
+  "deathlink": true
 }

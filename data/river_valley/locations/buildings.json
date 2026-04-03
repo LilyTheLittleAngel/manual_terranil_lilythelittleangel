@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Place Turbine",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Place Buildings"
+        ],
+        "requires": "|Turbine (River Valley)|"
+    },
+    {
+        "name": "Place Toxin Scrubber",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Place Buildings"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)|"
+    },
+    {
+        "name": "Place Irrigator",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Place Buildings"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)| AND |Irrigator (River Valley)|"
+    },
+    {
+        "name": "Place Water Pump",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Place Buildings"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Water Pump (River Valley)|"
+    },
+    {
+        "name": "Place Calcifier",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Place Buildings"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Water Pump (River Valley)| AND |Calcifier (River Valley)|"
+    },
+    {
+        "name": "Place Excavator",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "River Valley tier 1 Place Buildings"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Excavator (River Valley)|"
+    }
+]

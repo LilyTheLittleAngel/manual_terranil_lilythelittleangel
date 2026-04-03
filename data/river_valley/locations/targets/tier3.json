@@ -1,0 +1,34 @@
+[
+    {
+        "name": "River Valley Tier 3 First Recycling",
+        "region": "River Valley - Tier 3",
+        "category": [
+            "River Valley tier 3 Goals"
+        ],
+        "requires": "|Airship (River Valley)| AND |Recycling Drone (River Valley)| AND |Loading Dock (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 3 Recycling <5 Buildings Left",
+        "region": "River Valley - Tier 3",
+        "category": [
+            "River Valley tier 3 Goals"
+        ],
+        "requires": "|Airship (River Valley)| AND |Recycling Drone (River Valley)| AND |Loading Dock (River Valley)| AND |Pound Lock (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 3 One Animal Photo",
+        "region": "River Valley - Tier 3",
+        "category": [
+            "River Valley tier 3 Goals"
+        ],
+        "requires": "|Animal Observatory (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 3 All Animal Photos",
+        "region": "River Valley - Tier 3",
+        "category": [
+            "River Valley tier 3 Goals"
+        ],
+        "requires": "|Animal Observatory (River Valley)| AND (|Recycling Silo (River Valley)| OR (|Airship (River Valley)| AND |Recycling Drone (River Valley)| AND |Loading Dock (River Valley)| AND |Pound Lock (River Valley)|)"
+    }
+]

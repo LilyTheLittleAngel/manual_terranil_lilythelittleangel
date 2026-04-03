@@ -1,0 +1,50 @@
+[
+    {
+        "count": 1,
+        "name": "Hydroponium (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Beehive (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Solar Amplifier (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Arboretum (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Research Center (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 2"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Cloud Seeder (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 2"
+        ],
+        "progression": true
+    }
+]

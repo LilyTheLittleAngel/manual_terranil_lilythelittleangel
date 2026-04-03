@@ -1,0 +1,66 @@
+[
+    {
+        "count": 1,
+        "name": "Airship (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Recycling Silo (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Recycling Drone (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Loading Dock (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Pound Lock (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Sonic Pulse (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Wildlife Bridge (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Animal Observatory (River Valley)",
+        "category": [
+            "River Valley Buildings - Tier 3"
+        ],
+        "progression": true
+    }
+]

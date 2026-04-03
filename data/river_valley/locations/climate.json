@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Waterlillies blossom",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Research Center (River Valley)| AND |Cloud Seeder (River Valley)| AND |Tier 2 Done (River Valley)| AND |Recycling Silo (River Valley)|"
+    },
+    {
+        "name": "Salmon run",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Research Center (River Valley)| AND |Cloud Seeder (River Valley)| AND |Tier 2 Done (River Valley)| AND |Recycling Silo (River Valley)|"
+    },
+    {
+        "name": "Wildflower Blooms",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Research Center (River Valley)|"
+    },
+    {
+        "name": "Migratory Birds Return",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Research Center (River Valley)|"
+    },
+    {
+        "name": "Ferns on riverbanks",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Research Center (River Valley)| AND |Cloud Seeder (River Valley)|"
+    },
+    {
+        "name": "Fungi in Forests",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Research Center (River Valley)| AND |Cloud Seeder (River Valley)|"
+    },
+    {
+        "name": "Rains begin",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Climate Goals"
+        ],
+        "requires": "|Research Center (River Valley)| AND |Cloud Seeder (River Valley)|",
+        "place_item": [
+            "Rain (River Valley)"
+        ]
+    }
+]

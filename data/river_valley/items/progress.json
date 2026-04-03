@@ -1,0 +1,34 @@
+[
+    {
+        "count": 1,
+        "name": "Tier 1 Done (River Valley)",
+        "category": [
+            "River Valley Tiers Done"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Tier 2 Done (River Valley)",
+        "category": [
+            "River Valley Tiers Done"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Tier 3 Done (River Valley)",
+        "category": [
+            "River Valley Tiers Done"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Rain (River Valley)",
+        "category": [
+            "River Valley Climate Goals"
+        ],
+        "useful": true
+    }
+]

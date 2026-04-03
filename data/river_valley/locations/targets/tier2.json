@@ -1,0 +1,58 @@
+[
+    {
+        "name": "River Valley Tier 2 First Wetlands",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "River Valley tier 2 Goals"
+        ],
+        "requires": "|Hydroponium (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 2 Wetlands Goal",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "River Valley tier 2 Goals"
+        ],
+        "requires": "|Hydroponium (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 2 First Fynbos",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "River Valley tier 2 Goals"
+        ],
+        "requires": "|Beehive (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 2 Fynbos Goal",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "River Valley tier 2 Goals"
+        ],
+        "requires": "|Beehive (River Valley)| AND |Solar Amplifier (River Valley)| AND |Arboretum (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 2 First Fire",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "River Valley tier 2 Goals"
+        ],
+        "requires": "|Beehive (River Valley)| AND |Solar Amplifier (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 2 First Forest",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "River Valley tier 2 Goals"
+        ],
+        "requires": "|Beehive (River Valley)| AND |Solar Amplifier (River Valley)| AND |Arboretum (River Valley)|"
+    },
+    {
+        "name": "River Valley Tier 2 Forest Goal",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "River Valley tier 2 Goals"
+        ],
+        "requires": "|Beehive (River Valley)| AND |Solar Amplifier (River Valley)| AND |Arboretum (River Valley)|"
+    }
+]

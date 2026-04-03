@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Restored Planet",
+        "region": "World Map",
+        "victory": true,
+        "category": [
+            "Goal"
+        ],
+        "requires": "|Restored Ecosystems:2|"
+    }
+]

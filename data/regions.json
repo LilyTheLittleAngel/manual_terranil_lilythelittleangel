@@ -1,19 +1,25 @@
 {
-  "River Valley - Tier 1": {
+  "World Map": {
     "starting": true,
+    "connects_to": [
+      "River Valley - Tier 1"
+    ],
+    "requires": ""
+  },
+  "River Valley - Tier 1": {
     "connects_to": [
       "River Valley - Tier 2"
     ],
-    "requires": ""
+    "requires": "|River Valley Unlock|"
   },
   "River Valley - Tier 2": {
     "connects_to": [
       "River Valley - Tier 3"
     ],
-    "requires": "|Tier 1 Done|"
+    "requires": "|Tier 1 Done (River Valley)|"
   },
   "River Valley - Tier 3": {
     "connects_to": [],
-    "requires": "|Tier 2 Done|"
+    "requires": "|Tier 2 Done (River Valley)|"
   }
 }

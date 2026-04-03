@@ -1,0 +1,35 @@
+[
+    {
+        "name": "River Valley Tier 1 Done",
+        "region": "River Valley - Tier 1",
+        "category": [
+            "Tier Clears"
+        ],
+        "requires": "|Turbine (River Valley)| AND |Toxin Scrubber (River Valley)| AND |Irrigator (River Valley)| AND |Calcifier (River Valley)| AND |Excavator (River Valley)|",
+        "place_item": [
+            "Tier 1 Done (River Valley)"
+        ]
+    },
+    {
+        "name": "River Valley Tier 2 Done",
+        "region": "River Valley - Tier 2",
+        "category": [
+            "Tier Clears"
+        ],
+        "requires": "|Hydroponium (River Valley)| AND |Beehive (River Valley)| AND |Solar Amplifier (River Valley)| AND |Arboretum (River Valley)|",
+        "place_item": [
+            "Tier 2 Done (River Valley)"
+        ]
+    },
+    {
+        "name": "River Valley Liftoff",
+        "region": "River Valley - Tier 3",
+        "category": [
+            "Tier Clears"
+        ],
+        "requires": "|Airship (River Valley)| AND |Recycling Drone (River Valley)| AND |Loading Dock (River Valley)| AND |Pound Lock (River Valley)| AND |Animal Observatory (River Valley)|",
+        "place_item": [
+            "Restored Ecosystems"
+        ]
+    }
+]

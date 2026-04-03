@@ -2,6 +2,7 @@ import logging
 
 from .DataValidation import DataValidation, ValidationError
 from .Helpers import load_data_file as helpers_load_data_file
+from .data import filelists
 
 from .hooks.Data import \
     after_load_game_file, \
@@ -37,12 +38,21 @@ class ManualFile:
 
 
 game_table = ManualFile('game.json', dict).load() #dict
-item_table = convert_to_list(ManualFile('items.json', list).load(), 'data') #list
-location_table = convert_to_list(ManualFile('locations.json', list).load(), 'data') #list
 region_table = ManualFile('regions.json', dict).load() #dict
 category_table = ManualFile('categories.json', dict).load() #dict
 option_table = ManualFile('options.json', dict).load() #dict
 meta_table = ManualFile('meta.json', dict).load() #dict
+
+item_tables = [convert_to_list(ManualFile(i, list).load(), 'data') for i in filelists.item_files] #list
+location_tables = [convert_to_list(ManualFile(i, list).load(), 'data') for i in filelists.location_files] #list
+item_table = []
+location_table = []
+for i in item_tables:
+    for j in i:
+        item_table.append(j)
+for i in location_tables:
+    for j in i:
+        location_table.append(j)
 
 # Removal of schemas in root of tables
 region_table.pop('$schema', '')
