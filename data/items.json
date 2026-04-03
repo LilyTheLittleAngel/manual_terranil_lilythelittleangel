@@ -1,0 +1,186 @@
+[
+  {
+    "count": 1,
+    "name": "Turbine",
+    "category": [
+      "Buildings - Tier 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toxin Scrubber",
+    "category": [
+      "Buildings - Tier 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Irrigator",
+    "category": [
+      "Buildings - Tier 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Water Pump",
+    "category": [
+      "Buildings - Tier 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Calcifier",
+    "category": [
+      "Buildings - Tier 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Excavator",
+    "category": [
+      "Buildings - Tier 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hydroponium",
+    "category": [
+      "Buildings - Tier 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beehive",
+    "category": [
+      "Buildings - Tier 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Solar Amplifier",
+    "category": [
+      "Buildings - Tier 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arboretum",
+    "category": [
+      "Buildings - Tier 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Research Center",
+    "category": [
+      "Buildings - Tier 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cloud Seeder",
+    "category": [
+      "Buildings - Tier 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Airship",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Recycling Silo",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Recycling Drone",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Loading Dock",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pound Lock",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic Pulse",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wildlife Bridge",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Animal Observatory",
+    "category": [
+      "Buildings - Tier 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tier 1 Done",
+    "category": [
+      "Tiers Done"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tier 2 Done",
+    "category": [
+      "Tiers Done"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "River Valley Rain",
+    "category": [
+      "Climate Goals"
+    ],
+    "useful": true
+  }
+]

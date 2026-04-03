@@ -1,0 +1,284 @@
+[
+  {
+    "region": "River Valley - Tier 1",
+    "name": "River Valley Tier 1 Clear",
+    "category": [
+      "Tier Clears"
+    ],
+    "requires": "|Turbine| AND |Toxin Scrubber| AND |Irrigator| AND |Calcifier| AND |Excavator|"
+  },
+  {
+    "name": "River Valley 25% done",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Goal"
+    ],
+    "requires": "|Turbine| AND |Toxin Scrubber| AND |Irrigator|"
+  },
+  {
+    "name": "River Valley Greenery 50% done",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Goal"
+    ],
+    "requires": "|Turbine| AND |Toxin Scrubber| AND |Irrigator|"
+  },
+  {
+    "name": "River Valley Greenery 75% done",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Goal"
+    ],
+    "requires": "|Turbine| AND |Toxin Scrubber| AND |Irrigator| AND |Calcifier|"
+  },
+  {
+    "name": "Place Turbine",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Place Buildings"
+    ],
+    "requires": "|Turbine|"
+  },
+  {
+    "name": "Place Toxin Scrubber",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Place Buildings"
+    ],
+    "requires": "|Turbine| AND |Toxin Scrubber|"
+  },
+  {
+    "name": "Place Irrigator",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Place Buildings"
+    ],
+    "requires": "|Turbine| AND |Toxin Scrubber| AND |Irrigator|"
+  },
+  {
+    "name": "Place Water Pump",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Place Buildings"
+    ],
+    "requires": "|Turbine| AND |Water Pump|"
+  },
+  {
+    "name": "Place Calcifier",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Place Buildings"
+    ],
+    "requires": "|Turbine| AND |Water Pump| AND |Calcifier|"
+  },
+  {
+    "name": "Place Excavator",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Place Buildings"
+    ],
+    "requires": "|Turbine| AND |Excavator|"
+  },
+  {
+    "name": "River Valley Tier 1 First Greenery",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "River Valley tier 1 Goal"
+    ],
+    "requires": "|Turbine| AND (|Water Pump| OR (|Toxin Scrubber| AND |Irrigator|)"
+  },
+  {
+    "name": "River Valley Tier 1 Done",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "Tier Clears"
+    ],
+    "requires": "|Turbine| AND |Toxin Scrubber| AND |Irrigator| AND |Calcifier| AND |Excavator|",
+    "place_item": [
+      "Tier 1 Done"
+    ]
+  },
+  {
+    "name": "River Valley Tier 2 Done",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "Tier Clears"
+    ],
+    "requires": "",
+    "place_item": [
+      "Tier 2 Done"
+    ]
+  },
+  {
+    "name": "River Valley Tier 2 First Wetlands",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "River Valley tier 2 Goals"
+    ],
+    "requires": "|Hydroponium|"
+  },
+  {
+    "name": "River Valley Tier 2 Wetlands Goal",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "River Valley tier 2 Goals"
+    ],
+    "requires": "|Hydroponium|"
+  },
+  {
+    "name": "River Valley Tier 2 First Fynbos",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "River Valley tier 2 Goals"
+    ],
+    "requires": "|Beehive|"
+  },
+  {
+    "name": "River Valley Tier 2 Fynbos Goal",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "River Valley tier 2 Goals"
+    ],
+    "requires": "|Beehive| AND |Solar Amplifier| AND |Arboretum|"
+  },
+  {
+    "name": "River Valley Tier 2 First Fire",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "River Valley tier 2 Goals"
+    ],
+    "requires": "|Beehive| AND |Solar Amplifier|"
+  },
+  {
+    "name": "River Valley Tier 2 First Forest",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "River Valley tier 2 Goals"
+    ],
+    "requires": "|Beehive| AND |Solar Amplifier| AND |Arboretum|"
+  },
+  {
+    "name": "River Valley Tier 2 Forest Goal",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "River Valley tier 2 Goals"
+    ],
+    "requires": "|Beehive| AND |Solar Amplifier| AND |Arboretum|"
+  },
+  {
+    "name": "River Valley Tier 3 First Recycling",
+    "region": "River Valley - Tier 3",
+    "category": [
+      "River Valley tier 3 Goals"
+    ],
+    "requires": "|Airship| AND |Recycling Drone| AND |Loading Dock|"
+  },
+  {
+    "name": "River Valley Tier 3 Recycling <5 Buildings",
+    "region": "River Valley - Tier 3",
+    "category": [
+      "River Valley tier 3 Goals"
+    ],
+    "requires": "|Airship| AND |Recycling Drone| AND |Loading Dock| AND |Pound Lock|"
+  },
+  {
+    "name": "River Valley Tier 3 One Animal Photo",
+    "region": "River Valley - Tier 3",
+    "category": [
+      "River Valley tier 3 Goals"
+    ],
+    "requires": "|Animal Observatory|"
+  },
+  {
+    "name": "Wildflower Blooms",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "Climate Goals"
+    ],
+    "requires": "|Research Center|"
+  },
+  {
+    "name": "Migratory Birds Return",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "Climate Goals"
+    ],
+    "requires": "|Research Center|"
+  },
+  {
+    "name": "Fungi in Forests",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "Climate Goals"
+    ],
+    "requires": "|Research Center| AND |Cloud Seeder|"
+  },
+  {
+    "region": "River Valley - Tier 2",
+    "name": "Ferns on riverbanks",
+    "category": [
+      "Climate Goals"
+    ],
+    "requires": "|Research Center| AND |Cloud Seeder|"
+  },
+  {
+    "name": "Waterlillies blossom",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "Climate Goals"
+    ],
+    "requires": "|Research Center| AND |Cloud Seeder| AND |Tier 2 Done| AND |Recycling Silo|"
+  },
+  {
+    "region": "River Valley - Tier 2",
+    "name": "Salmon run",
+    "category": [
+      "Climate Goals"
+    ],
+    "requires": "|Research Center| AND |Cloud Seeder| AND |Tier 2 Done| AND |Recycling Silo|"
+  },
+  {
+    "name": "Rains begin",
+    "region": "River Valley - Tier 2",
+    "category": [
+      "Climate Goals"
+    ],
+    "requires": "|Research Center| AND |Cloud Seeder|",
+    "place_item": [
+      "River Valley Rain"
+    ]
+  },
+  {
+    "name": "River Valley Tier 3 All Animal Photos",
+    "region": "River Valley - Tier 3",
+    "category": [
+      "River Valley tier 3 Goals"
+    ],
+    "requires": "|Animal Observatory| AND (|Recycling Silo| OR (|Airship| AND |Recycling Drone| AND |Loading Dock| AND |Pound Lock|)"
+  },
+  {
+    "name": "River Valley Liftoff",
+    "region": "River Valley - Tier 3",
+    "victory": true,
+    "category": [
+      "Tier Clears"
+    ],
+    "requires": "|Airship| AND |Recycling Drone| AND |Loading Dock| AND |Pound Lock| AND |Animal Observatory|"
+  },
+  {
+    "name": "Starting Item 1",
+    "region": "River Valley - Tier 1",
+    "category": [
+      "Freebies"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "River Valley - Tier 1",
+    "name": "Starting Item 2",
+    "category": [
+      "Freebies"
+    ],
+    "requires": ""
+  }
+]

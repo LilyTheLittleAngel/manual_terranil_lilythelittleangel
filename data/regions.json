@@ -1,0 +1,19 @@
+{
+  "River Valley - Tier 1": {
+    "starting": true,
+    "connects_to": [
+      "River Valley - Tier 2"
+    ],
+    "requires": ""
+  },
+  "River Valley - Tier 2": {
+    "connects_to": [
+      "River Valley - Tier 3"
+    ],
+    "requires": "|Tier 1 Done|"
+  },
+  "River Valley - Tier 3": {
+    "connects_to": [],
+    "requires": "|Tier 2 Done|"
+  }
+}
